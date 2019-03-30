@@ -6,5 +6,6 @@ public class hello {
 		 System.out.println("hello world");
 		 System.out.println("my initial commit");
 		 System.out.println("i love git...:)");
+		 System.out.println("developer 2");
 	 }
 }
