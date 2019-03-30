@@ -7,5 +7,7 @@ public class hello {
 		 System.out.println("my initial commit");
 		 System.out.println("i love git...:)");
 		 System.out.println("developer 2");
+	     System.out.println("commit through eclipse");
 	 }
 }
+
